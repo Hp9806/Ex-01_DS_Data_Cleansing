@@ -60,3 +60,7 @@ df.info()
 # OUPUT
 
 ![gitlogo](dataclean.jpg)
+
+# RESULT:
+
+Thus, the data cleaning process is completed succesfully using python program and saved successfully.
